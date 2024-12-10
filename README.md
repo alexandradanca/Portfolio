@@ -1,4 +1,4 @@
-# Alexandara's Portfolio
+# Alexandra's Portfolio
 
 <p>Welcome to my portfolio! Here, I document a summary of my projects in the data field.</p>
 <h3>📚 Table of Contents</h3>
