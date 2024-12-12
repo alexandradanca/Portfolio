@@ -2,9 +2,12 @@
 
 <p>Welcome to my portfolio! Here, I document a summary of my projects in the data field.</p>
 <h3>📚 Table of Contents</h3>
-<a href="#sql">SQL</a>
+<ol>
+  <li><a href="#sql">SQL</a></li>
+  <li><a href="#frontend">Frontend</a></li>
+</ol> 
 
-<h1>SQL</h1>
+<h1 id="sql">SQL</h1>
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
 <tr>
@@ -38,7 +41,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 </tbody>
 </table></markdown-accessiblity-table>
 
-<h1>HTML, CSS, JS and Bootsrap framework </h1>
+<h1 id="frontend">HTML, CSS, JS and Bootsrap framework </h1>
 <markdown-accessiblity-table data-catalyst=""><table tabindex="0">
 <thead>
 <tr>
