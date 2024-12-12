@@ -26,9 +26,14 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>The analysis evaluate the time frame of data collection, identify companies, industries, and countries most impacted by layoffs, and explore year-on-year trends.</td>
 </tr>
 <tr>
-<td>🍜 <a href="https://github.com/alexandradanca/MySQL_Restaurant_Database/tree/main">Create & analysis of a restaurant's database</a></td>
+<td>🍜 <a href="https://github.com/alexandradanca/MySQL_Restaurant_Database">Create & analysis of a restaurant's database</a></td>
 <td>Table creation, Data creation, Data analysis</td>
 <td>This study explores key insights from a restaurant's operations database to analyze customer behavior, employee performance, product sales, and financial trends. The queries focus on reservations, orders, feedback, and employee activity.</td>
+</tr>
+<tr>
+<td>🎥 <a href="https://github.com/alexandradanca/MySQL_Filmography_Database">Create & analysis of a movies's database</a></td>
+<td>Table creation, Data creation, Data analysis</td>
+<td>This study explores various facets of the movie industry using a fictional database. The database includes directors, movies, cast members, awards, and revenues.</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
