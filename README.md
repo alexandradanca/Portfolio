@@ -4,6 +4,7 @@
 <h3>📚 Table of Contents</h3>
 <ol>
   <li><a href="#sql">SQL</a></li>
+  <li><a href="#xls">Excel</a></li>
   <li><a href="#frontend">Frontend</a></li>
 </ol> 
 
@@ -38,6 +39,23 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>Table creation, Data creation, Data analysis</td>
 <td>This study explores various facets of the movie industry using a fictional database. The database includes directors, movies, cast members, awards, and revenues.</td>
 </tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
+<h1 id="xls">Excel</h1>
+<markdown-accessiblity-table data-catalyst=""><table tabindex="0">
+<thead>
+<tr>
+<th>Project Link</th>
+<th>Area of Analysis</th>
+<th>Project Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🚲 <a href="https://github.com/alexandradanca/Bike_Buyers_Excel_Dashboard">Bike Buyers</a></td>
+<td>Analysis of customer data from bike sales</td>
+<td>This dataset contains fictional customer data related to bike sales and is used for data exploration. This is an interactive dashboard featuring Pivot Charts and Slicers. The dashboard allows users to filter by age category, gender, and product category.</td>
 </tbody>
 </table></markdown-accessiblity-table>
 
