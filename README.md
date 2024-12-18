@@ -84,7 +84,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <tr>
 <td>🌎 <a href="https://github.com/alexandradanca/Tableau_World-Happiness-2024">World Happiness (2024)</a></td>
 <td>This dashboard helps identify trends, regional differences, and the impact of various factors on happiness.</td>
-<td><a href="https://public.tableau.com/shared/HRYQXMN56?:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+<td><a href="https://public.tableau.com/views/WorldHappinessin2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
