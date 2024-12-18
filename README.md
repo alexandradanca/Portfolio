@@ -57,6 +57,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>🚲 <a href="https://github.com/alexandradanca/Bike_Buyers_Excel_Dashboard">Bike Buyers</a></td>
 <td>Analysis of customer data from bike sales</td>
 <td>This dataset contains fictional customer data related to bike sales and is used for data exploration. This is an interactive dashboard featuring Pivot Charts and Slicers. The dashboard allows users to filter by age category, gender, and product category.</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
@@ -74,6 +75,12 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>🏠 <a href="https://github.com/alexandradanca/Tableau_Airbnb-Listings">Airbnb Listings</a></td>
 <td>The Airbnb Listings Dashboard is a comprehensive data visualization created in Tableau, showcasing insights from the 2016 Airbnb dataset for Seattle, Washington.</td>
 <td><a href="https://public.tableau.com/views/AirbnbUSA2016_17343629238190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+</tr>
+<tr>
+<td>😥 <a href="https://github.com/alexandradanca/Tableau_Student-Depression">Student Depression</a></td>
+<td>A student depression dataset used to create a data visualization by Dashboard in Tableau.</td>
+<td><a href="https://public.tableau.com/views/StudentDepression_17344379049530/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
