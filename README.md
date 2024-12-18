@@ -81,6 +81,11 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>A student depression dataset used to create a data visualization by Dashboard in Tableau.</td>
 <td><a href="https://public.tableau.com/views/StudentDepression_17344379049530/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
 </tr>
+<tr>
+<td>🌎 <a href="https://github.com/alexandradanca/Tableau_World-Happiness-2024">World Happiness (2024)</a></td>
+<td>This dashboard helps identify trends, regional differences, and the impact of various factors on happiness.</td>
+<td><a href="https://public.tableau.com/shared/HRYQXMN56?:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
