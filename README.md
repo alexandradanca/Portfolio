@@ -110,7 +110,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>Data Visualization and Statistical Analyses</td>
 </tr>
 <tr>
-<td>📚 <a href="https://github.com/alexandradanca/R_NeuralNetworks_OnlineEducation">Bangladeshi Students</a></td>
+<td>📚 <a href="https://github.com/alexandradanca/R_NeuralNetworks_OnlineEducation">Bangladesh Students</a></td>
 <td>Data Visualization and Neural Networks</td>
 </tr>
 <tr>
