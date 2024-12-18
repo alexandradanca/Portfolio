@@ -6,6 +6,8 @@
   <li><a href="#sql">SQL</a></li>
   <li><a href="#xls">Excel</a></li>
   <li><a href="#tbl">Tableau</a></li>
+  <li><a href="#r">R</a></li>
+  <li><a href="#py">Python</a></li>
   <li><a href="#frontend">Frontend</a></li>
 </ol> 
 
@@ -90,6 +92,52 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>🦠 <a href="https://github.com/alexandradanca/Tableau_COVID-19-Mortality-Ratios">COVID-19 Case Mortality Ratios by country</a></td>
 <td>This dashboard helps identify the cuntries with the highest mortality ratio caused by the pandemic COVID-19</td>
 <td><a href="https://public.tableau.com/views/COVID-19CaseMortalityRatiosbyCountry/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
+<h1 id="r">R</h1>
+<markdown-accessiblity-table data-catalyst=""><table tabindex="0">
+<thead>
+<tr>
+<th>Project Link</th>
+<th>Area of Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>👥 <a href="https://github.com/alexandradanca/R_Analysis_CrimeNorthCarolina">Crime in North Carolina</a></td>
+<td>Data Visualization and Statistical Analyses</td>
+</tr>
+<tr>
+<td>📚 <a href="https://github.com/alexandradanca/R_NeuralNetworks_OnlineEducation">Bangladeshi Students</a></td>
+<td>Data Visualization and Neural Networks</td>
+</tr>
+<tr>
+<td>🎬 <a href="https://github.com/alexandradanca/R_TextAnalysis_GOT">Game of Thrones - Script All Seasons</a></td>
+<td>Data Visualization and Text Analysis</td>
+</tr>
+<tr>
+<td>💰 <a href="https://github.com/alexandradanca/R_Analysis_CrimeNorthCarolina">Bank Customer Churn Prediction</a></td>
+<td>Data Visualization and Logistic Regression</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
+<h1 id="py">Python</h1>
+<markdown-accessiblity-table data-catalyst=""><table tabindex="0">
+<thead>
+<tr>
+<th>Project Link</th>
+<th>Area of Analysis</th>
+<th>Project Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🏡 <a href="https://github.com/alexandradanca/Py_DataVisualization_HousingPrice">Housing Prices</a></td>
+<td>Data Visualization</td>
+<td>The main objective is to analyze the factors that determine the price difference between houses. This objective will be achieved by using statistical methods such as regression analysis, correlation analysis, and descriptive analysis.</td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
