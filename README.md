@@ -86,6 +86,11 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>This dashboard helps identify trends, regional differences, and the impact of various factors on happiness.</td>
 <td><a href="https://public.tableau.com/views/WorldHappinessin2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
 </tr>
+<tr>
+<td>🦠 <a href="https://github.com/alexandradanca/Tableau_COVID-19-Mortality-Ratios">COVID-19 Case Mortality Ratios by country</a></td>
+<td>This dashboard helps identify the cuntries with the highest mortality ratio caused by the pandemic COVID-19</td>
+<td><a href="https://public.tableau.com/views/COVID-19CaseMortalityRatiosbyCountry/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
