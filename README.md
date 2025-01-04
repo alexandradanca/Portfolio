@@ -6,6 +6,7 @@
   <li><a href="#sql">SQL</a></li>
   <li><a href="#xls">Excel</a></li>
   <li><a href="#tbl">Tableau</a></li>
+  <li><a href="#pbi">PowerBI</a></li>
   <li><a href="#r">R</a></li>
   <li><a href="#py">Python</a></li>
   <li><a href="#frontend">Frontend</a></li>
@@ -93,6 +94,30 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>This dashboard helps identify the cuntries with the highest mortality ratio caused by the pandemic COVID-19</td>
 <td><a href="https://public.tableau.com/views/COVID-19CaseMortalityRatiosbyCountry/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
 </tr>
+</tbody>
+</table></markdown-accessiblity-table>
+
+<h1 id="pbi">Power BI</h1>
+<markdown-accessiblity-table data-catalyst=""><table tabindex="0">
+<thead>
+<tr>
+<th>Project Link</th>
+<th>Project Description</th>
+<th>Dashboard Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🎒 <a href="https://github.com/alexandradanca/PowerBI_Data-Survey">Data Professional Survey Breakdown</a></td>
+<td>Data Survey collected by Alex The Analys from his students.</td>
+<td><a href="https://github.com/alexandradanca/PowerBI_Data-Survey/blob/main/dashboard.png">Dashboard</a></td>
+</tr>
+<tr>
+<td>☕ <a href="https://github.com/alexandradanca/PowerBI_Coffee-Shop-Sales">Coffee Shop Sales</a></td>
+<td>Dataset includes the transaction date, timestamp and location, along with product-level details for Coffee Shops.</td>
+<td><a href="https://github.com/alexandradanca/PowerBI_Coffee-Shop-Sales/blob/main/dashboard.png">Dashboard</a></td>
+</tr>
+<tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
