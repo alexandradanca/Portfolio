@@ -61,6 +61,10 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>Analysis of customer data from bike sales</td>
 <td>This dataset contains fictional customer data related to bike sales and is used for data exploration. This is an interactive dashboard featuring Pivot Charts and Slicers. The dashboard allows users to filter by age category, gender, and product category.</td>
 </tr>
+<td>📋 <a href="https://github.com/alexandradanca/Excel_Inventory_Data/tree/main">Inventory Datasets</a></td>
+<td>Analysis of inventory</td>
+<td>This project focuses on automating inventory data processing using only Excel functionalities. It provides an efficient solution for organizing, analyzing, and updating inventory data without relying on external programming languages. The entire workflow is achieved through native Excel tools such as pivot tables, and conditional formatting, delivering an accessible and user-friendly approach to inventory management.</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
