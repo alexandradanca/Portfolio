@@ -175,6 +175,11 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>Data Visualization</td>
 <td>The main objective is to analyze the factors that determine the price difference between houses. This objective will be achieved by using statistical methods such as regression analysis, correlation analysis, and descriptive analysis.</td>
 </tr>
+<tr>
+<td>:globe_with_meridians:<a href="https://github.com/alexandradanca/Py_GDP_Webscraping">Gross Domestic Product Data</a></td>
+<td>Data Extraction and Processing</td>
+<td>The main objective is to create a script that can extract the list of the top 10 largest economies of the world in descending order of their GDPs in Billion USD (rounded to 2 decimal places), as logged by the International Monetary Fund (IMF), using <i>pandas</i> and <i>numpy</i> libraries.</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
