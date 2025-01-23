@@ -30,7 +30,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 </tr>
 <tr>
 <td>:briefcase: <a href="https://github.com/alexandradanca/MySQL_Exploratory_Data_Analysis">Analysis of Layoffs Trends</a></td>
-<td>Layoff analysis</td>
+<td>Data analysis</td>
 <td>The analysis evaluate the time frame of data collection, identify companies, industries, and countries most impacted by layoffs, and explore year-on-year trends.</td>
 </tr>
 <tr>
