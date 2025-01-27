@@ -43,6 +43,11 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <td>Table creation, Data creation, Data analysis</td>
 <td>This study explores various facets of the movie industry using a fictional database. The database includes directors, movies, cast members, awards, and revenues.</td>
 </tr>
+<tr>
+<td>💼 <a href="https://github.com/alexandradanca/MySQL_Jobs_Database">Data Analysis of jobs</a></td>
+<td>Data analysis</td>
+<td>This project examines the 2023 data job market, with a focus on Data Analyst positions. It highlights key insights into the highest-paying roles, the most sought-after skills, and the best skills to prioritize for career growth.</td>
+</tr>
 </tbody>
 </table></markdown-accessiblity-table>
 
@@ -58,7 +63,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 <tbody>
 <tr>
 <td>🚲 <a href="https://github.com/alexandradanca/Bike_Buyers_Excel_Dashboard">Bike Buyers</a></td>
-<td>Analysis of customer data from bike sales</td>
+<td>Data Vizualization & Dashboard</td>
 <td>This dataset contains fictional customer data related to bike sales and is used for data exploration. This is an interactive dashboard featuring Pivot Charts and Slicers. The dashboard allows users to filter by age category, gender, and product category.</td>
 </tr>
 <tr>
@@ -102,7 +107,7 @@ The layoffs dataset required extensive cleaning and preparation to ensure data i
 </tr>
 <tr>
 <td>🦠 <a href="https://github.com/alexandradanca/Tableau_COVID-19-Mortality-Ratios">COVID-19 Case Mortality Ratios by country</a></td>
-<td>This dashboard helps identify the cuntries with the highest mortality ratio caused by the pandemic COVID-19</td>
+<td>This dashboard helps identify the cuntries with the highest mortality ratio caused by the pandemic COVID-19.</td>
 <td><a href="https://public.tableau.com/views/COVID-19CaseMortalityRatiosbyCountry/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a></td>
 </tr>
 </tbody>
